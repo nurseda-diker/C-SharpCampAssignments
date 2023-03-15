@@ -1,0 +1,8 @@
+C:\Users\nurse\source\repos\GameProjectBackendDemo\GameProjectBackendDemo\bin\Debug\GameProjectBackendDemo.exe.config
+C:\Users\nurse\source\repos\GameProjectBackendDemo\GameProjectBackendDemo\bin\Debug\GameProjectBackendDemo.exe
+C:\Users\nurse\source\repos\GameProjectBackendDemo\GameProjectBackendDemo\bin\Debug\GameProjectBackendDemo.pdb
+C:\Users\nurse\source\repos\GameProjectBackendDemo\GameProjectBackendDemo\obj\Debug\GameProjectBackendDemo.csproj.AssemblyReference.cache
+C:\Users\nurse\source\repos\GameProjectBackendDemo\GameProjectBackendDemo\obj\Debug\GameProjectBackendDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\nurse\source\repos\GameProjectBackendDemo\GameProjectBackendDemo\obj\Debug\GameProjectBackendDemo.csproj.CoreCompileInputs.cache
+C:\Users\nurse\source\repos\GameProjectBackendDemo\GameProjectBackendDemo\obj\Debug\GameProjectBackendDemo.exe
+C:\Users\nurse\source\repos\GameProjectBackendDemo\GameProjectBackendDemo\obj\Debug\GameProjectBackendDemo.pdb
