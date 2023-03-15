@@ -1,0 +1,8 @@
+C:\Users\nurse\source\repos\CoffeeShopProject\CoffeeShopProject\obj\Debug\CoffeeShopProject.csproj.AssemblyReference.cache
+C:\Users\nurse\source\repos\CoffeeShopProject\CoffeeShopProject\obj\Debug\CoffeeShopProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\nurse\source\repos\CoffeeShopProject\CoffeeShopProject\obj\Debug\CoffeeShopProject.csproj.CoreCompileInputs.cache
+C:\Users\nurse\source\repos\CoffeeShopProject\CoffeeShopProject\bin\Debug\CoffeeShopProject.exe.config
+C:\Users\nurse\source\repos\CoffeeShopProject\CoffeeShopProject\bin\Debug\CoffeeShopProject.exe
+C:\Users\nurse\source\repos\CoffeeShopProject\CoffeeShopProject\bin\Debug\CoffeeShopProject.pdb
+C:\Users\nurse\source\repos\CoffeeShopProject\CoffeeShopProject\obj\Debug\CoffeeShopProject.exe
+C:\Users\nurse\source\repos\CoffeeShopProject\CoffeeShopProject\obj\Debug\CoffeeShopProject.pdb
