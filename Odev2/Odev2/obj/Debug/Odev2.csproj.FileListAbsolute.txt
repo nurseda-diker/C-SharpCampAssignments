@@ -1,0 +1,8 @@
+C:\Users\nurse\source\repos\Odev2\Odev2\bin\Debug\Odev2.exe.config
+C:\Users\nurse\source\repos\Odev2\Odev2\bin\Debug\Odev2.exe
+C:\Users\nurse\source\repos\Odev2\Odev2\bin\Debug\Odev2.pdb
+C:\Users\nurse\source\repos\Odev2\Odev2\obj\Debug\Odev2.csproj.AssemblyReference.cache
+C:\Users\nurse\source\repos\Odev2\Odev2\obj\Debug\Odev2.csproj.SuggestedBindingRedirects.cache
+C:\Users\nurse\source\repos\Odev2\Odev2\obj\Debug\Odev2.csproj.CoreCompileInputs.cache
+C:\Users\nurse\source\repos\Odev2\Odev2\obj\Debug\Odev2.exe
+C:\Users\nurse\source\repos\Odev2\Odev2\obj\Debug\Odev2.pdb
